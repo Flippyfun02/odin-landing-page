@@ -1,4 +1,9 @@
 # odin-landing-page
+A simple landing page following the provided template from the Odin Project
+
+# To run:
+Move to the folder containing the program and type the following in the terminal:
+open index.html
 
 # sources
 Images:
