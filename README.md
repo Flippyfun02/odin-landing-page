@@ -6,6 +6,6 @@ Move to the folder containing the program and type the following in the terminal
 open index.html
 
 # sources
-Images:
+Images:  
 https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png  
 https://stock.adobe.com/search/images?k=profile+placeholder&asset_id=516275801
